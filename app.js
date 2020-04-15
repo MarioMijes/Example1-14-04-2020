@@ -1,0 +1,1 @@
+console.log('Message for the world');
